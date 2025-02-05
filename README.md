@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @sathishks9957
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+const userProfile = {
+    username: "@sathishks9957",
+    interests: ["Coding", "Web Development", "Technology"],
+    learning: ["JavaScript", "React", "Html", "CSS", "Photoshop", "Veeva CRM", "Salesforce", "RTE", "Jquery", "Bootstrap", "CorelDraw", "Testi.at", "Mobile Responsive", "GIT"],
+    collaboration: ["Open Source Projects", "Frontend Development"],
+    contact: {
+        email: "sathishks9957@gmail.com"        
+    },
+    pronouns: "He",
+    funFact: "I love solving coding challenges and debugging like a detective!"
+};
 
-<!---
-sathishks9957/sathishks9957 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
